@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
@@ -15,11 +15,11 @@ Global
 		{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+		EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B49E5A21-074F-4317-AB50-B69F30837D77}
+		SolutionGuid = {8FF5B63D-14CD-4383-BE6B-46D91308027F}
 	EndGlobalSection
 EndGlobal
