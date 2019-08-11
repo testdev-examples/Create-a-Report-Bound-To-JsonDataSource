@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Create-a-Report-Bound-to-JsonDataSource", "Reporting_Create-a-Report-Bound-To-JsonDataSource\Create-a-Report-Bound-to-JsonDataSource.vbproj", "{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}"
 EndProject
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F88ED874-73E1-44E2-B810-D0D600CE0F56}
+		SolutionGuid = {DEDFB5CE-F906-4B63-8DAF-BB553B7D1D7D}
 	EndGlobalSection
 EndGlobal
